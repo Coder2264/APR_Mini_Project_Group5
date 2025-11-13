@@ -1,7 +1,7 @@
 # APR_Mini_Project_Group5
 This repository includes mini project for Advanced Pattern Recognition prepared by members of Group 5
 
-# Signature Forgery Detection: An Academic Overview
+# Signature Forgery Detection
 
 This document outlines the theoretical approach and machine learning pipeline we have implemented in the Mini project for identifying forged signatures.
 
